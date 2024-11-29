@@ -1,0 +1,8 @@
+name: SExpItems
+version: '${project.version}'
+main: org.siynes.sexpitems.SExpItems
+api-version: '1.16'
+commands:
+  sexpitems:
+    aliases:
+      - expkeeper
